@@ -2,6 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edcouth__/)
 [![twitch](    https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/duduxssx)
+
 ![dudu Github stats](https://github-readme-stats.vercel.app/api?username=Dudusxx&show_icons=true&theme=radical)
 
 ## Tecnologias que utilizo no meu dia
